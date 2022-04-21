@@ -776,6 +776,8 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 .btn-atomic-tangerine {
@@ -1039,4 +1041,12 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.col-sm-12 h2{
+    font-weight: 800;
+}
+
+.col-xs-12 p{
+    font-size: 18px;
 }
